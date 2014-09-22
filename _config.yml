@@ -2,7 +2,7 @@
 
 title:            CIID Final Project
 locale:           en_US
-baseurl:           //paulate.github.io/CIIDthesis
+url:              //paulate.github.io/CIIDthesis
 
 # Jekyll configuration
 
