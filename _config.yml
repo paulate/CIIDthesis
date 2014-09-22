@@ -3,7 +3,8 @@
 title:            CIID Final Project
 locale:           en_US
 url:              //paulate.github.io/CIIDthesis
-
+baseurl:          /CIIDthesis
+  
 # Jekyll configuration
 
 permalink:   /:categories/:title/

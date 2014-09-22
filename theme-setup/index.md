@@ -176,7 +176,7 @@ These two layouts are very similar. Both have an author sidebar, allow for large
 
 ### Post Index Page
 
-A [sample index page]({{ site.url }}/posts/) listing all posts grouped by the year they were published has been provided. The name can be customized to your liking by editing a few references. For example, to change **Posts** to **Writing** update the following:
+A [sample index page]({{ site.baseurl }}/posts/) listing all posts grouped by the year they were published has been provided. The name can be customized to your liking by editing a few references. For example, to change **Posts** to **Writing** update the following:
 
 * In `_config.yml` under `links:` rename the title and URL to the following:
 {% highlight yaml %}
