@@ -58,12 +58,17 @@
 
 <div class="footer-wrap">
   <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
-    <ul>
-    {% for post in site.related_posts limit:3 %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
+     <h4>
+                   {% if page.previous.url %} 
+                          <a href="{{page.previous.url}}" title="Previous Post: 
+           {{page.previous.title}}">&laquo; {{page.previous.title}}</a> 
+                   {% endif %} 
+
+                   {% if page.next.url %} 
+                           <small class="pull-right"><a href="{{page.next.url}}" title="next Post: 
+           {{page.next.title}}">{{page.next.title}} &raquo; </a></small>
+                   {% endif %}
+ </h4>
     <hr />
   </div><!-- /.related-articles -->
   <footer>
