@@ -32,7 +32,6 @@ See the [archive]({{ site.baseurl }}/archive) for inspirations of old project id
 - [Smarticle](http://portfolio.walmink.com/smarticle.php) by Wouter Walmink
 - [Hej_verden();](http://ciid.dk/education/portfolio/idp13/courses/final-projects-2013/hej_verden/) by Lasse Korsgaard
 
-
 ##Readings
 * [Explorable Explanations](http://worrydream.com/ExplorableExplanations/) by Bret Victor
 * Mindstorms by Seymour Papert
@@ -41,6 +40,8 @@ See the [archive]({{ site.baseurl }}/archive) for inspirations of old project id
 * [Related Worksheet](http://www.mit.edu/~ebakke/research/related_worksheets_chi2011.pdf)
 * [Animation + Education](http://blog.ishback.com/?p=468) amazing CIID project documentation by Ishac Bertran
 * [A New Paradigm for Stop Motion Animation?](http://blog.ishback.com/?p=503) by Ishac Bertran
+
+
 ## People
 
 - David Mellis
