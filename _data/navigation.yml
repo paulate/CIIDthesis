@@ -3,8 +3,11 @@
 - title: About
   url: /
 
-- title: Blog
+- title: Project Updates
   url: /posts/
 
 - title: Inspirations
   url: /inspirations/
+  
+- title: Archive
+  url: /archive/

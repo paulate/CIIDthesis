@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Bloggings
-excerpt: "Blog posts about the thesis."
+title: Project Updates
+excerpt: "Posts about the thesis."
 ---

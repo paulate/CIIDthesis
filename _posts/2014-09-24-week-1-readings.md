@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 1 Readings"
+title: "Week 1: Readings (in progress)"
 modified:
 categories: 
 excerpt: Alan Kay, Seymour Papert 
@@ -9,7 +9,8 @@ image:
   feature:
 date: 2014-09-24T14:00:11+02:00
 ---
-
+This is a draft!
+{: .notice}
 
 - [User Interface: A Personal View](http://proteus.fau.edu/practicum/texts/kay.pdf) by Alan Kay
 - Mindstorms by Seymour Papert
