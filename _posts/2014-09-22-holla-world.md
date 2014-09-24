@@ -19,5 +19,6 @@ date: 2014-09-22T20:57:42+02:00
 2. Lots of pictures
 3. Develop a ritual and a plan
 4. Talk to people first, develop second [^1]
+5. "What I've learned"
 
 [^1]:I still want to do more making than talking. It's nice to throw your ideas around first, just a little bit, to see how people react and make sure you're not crazy. 
