@@ -19,3 +19,6 @@ date: 2014-09-24T12:31:43+02:00
 5. Explore, but keep focus on the goal.
 6. Use this project as a starting point for discussions, new opportunities, and ideas. 
 7. Week 9 is for packaging and presentation. 
+8. Use final project to gain in-depth knowledge on one of the things you're interested in
+
+
