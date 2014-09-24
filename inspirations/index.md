@@ -39,7 +39,8 @@ See the [archive]({{ site.baseurl }}/archive) for inspirations of old project id
 * [User Interface: A Personal View](http://proteus.fau.edu/practicum/texts/kay.pdf) by Alan Kay
 * [Bicycle Drawing Test]({{ site.baseurl }} /bicycle)
 * [Related Worksheet](http://www.mit.edu/~ebakke/research/related_worksheets_chi2011.pdf)
-
+* [Animation + Education](http://blog.ishback.com/?p=468) amazing CIID project documentation by Ishac Bertran
+* [A New Paradigm for Stop Motion Animation?](http://blog.ishback.com/?p=503) by Ishac Bertran
 ## People
 
 - David Mellis
