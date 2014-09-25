@@ -63,10 +63,10 @@ This is a draft!
 #####FEARS
 
 1. Researchers might not like it. Written medium conveys abstractions that images cannot.
-2. Tinkerers/makers might not like it. They like their Instructables.
+2. Young makers might not like it. They like their Instructables.
 3. Difficult to design tools for visualizing research / communicating it clearly.[^1]
 4. Difficult to craft a story with this project that is compelling to mainstream.[^2]
-6. Need to research publication standards, why people publish, etc.
+5. Understand how kids explore, experiment. 
 
 [^1]: (see: powerpoint templates) (They shouldn't just be templates. They should teach people about graphic design principles.)
 
