@@ -12,17 +12,30 @@ date: 2014-09-24T12:54:02+02:00
 This is a draft!
 {: .notice}
 
-# How might we ... 
+# How might we v2 ...
+
+#### 3D Mental Model Game
 
 - [Help children learn and create accurate 3d mental models by allowing them to create complex 3d mechanisms or structures?]({{ site.baseurl}}/images/2409-mentalmodel.jpg)
 
-- [Help scientists and researches communicate their ideas in clear and compelling ways through the use of current media?]({{ site.baseurl}}/images/2409-researchcommunication.jpg)
+Tasks
 
-- [Close the gap between scientists and tinkerers by reinventing the research paper as a tool for experimentation?]({{ site.baseurl}}/images/2409-researchexp.jpg)
+1. Technology/ physical setup of bringing 3d objects into 2d digital world
+2. Gameplay that is fun for kids
+3. Structure of game that teaches kids to explore/comprehend 3d space
+4. Interface/ interaction on screen
+ 
+#### Interactive / Visual Research
+ 
+- [Make science more accessible to young makers by reinventing the research paper as an interactive, visual tool for experimentation?]({{ site.baseurl}}/images/2409-researchexp.jpg)
 
-- [Create new and meaningful ways of giving music as gifts?]({{ site.baseurl}}/images/2409-music.jpg)
 
-- [Make sustainability more inherent in maker culture by designing and sharing new processe for using plastic bags as a material?]({{ site.baseurl}}/images/2409-plastic.jpg)
+Tasks
+
+1. Understand how young people experiment and interface with science.
+2. Take existing research papers and make them interactive and visual.
+3. Take maker documentation and make them interactive and visual. 
+4. Create a platform which allows scientists, makers, etc. to publish their work in this way.
 
 ## Hopes and fears
 
@@ -66,6 +79,18 @@ This is a draft!
 3. Learn more graphic design 
 4. Fun information architecture challenge
 5. This perhaps has the greater impact and can be more of a starting point to continue beyond CIID
+
+# How might we v1 ... 
+
+- [Help children learn and create accurate 3d mental models by allowing them to create complex 3d mechanisms or structures?]({{ site.baseurl}}/images/2409-mentalmodel.jpg)
+
+- [Help scientists and researches communicate their ideas in clear and compelling ways through the use of current media?]({{ site.baseurl}}/images/2409-researchcommunication.jpg)
+
+- [Close the gap between scientists and tinkerers by reinventing the research paper as a tool for experimentation?]({{ site.baseurl}}/images/2409-researchexp.jpg)
+
+- [Create new and meaningful ways of giving music as gifts?]({{ site.baseurl}}/images/2409-music.jpg)
+
+- [Make sustainability more inherent in maker culture by designing and sharing new processe for using plastic bags as a material?]({{ site.baseurl}}/images/2409-plastic.jpg)
 
 ## Topics
 

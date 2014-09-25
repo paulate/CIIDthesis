@@ -3,7 +3,7 @@ layout: post
 title: "Week 1: Readings (in progress)"
 modified:
 categories: 
-excerpt: Alan Kay, Seymour Papert 
+excerpt: Alan Kay, Seymour Papert, Erik Brynjolfsson 
 tags: []
 image:
   feature:
@@ -14,6 +14,10 @@ This is a draft!
 
 - [User Interface: A Personal View](http://proteus.fau.edu/practicum/texts/kay.pdf) by Alan Kay
 - Mindstorms by Seymour Papert
+- [The key to growth? Race with the machines](http://www.ted.com/talks/erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines/transcript?language=en) by Erik Brynjolfsson
+
+Brynjolfsson describes the new machine age. In his talk, growth is a built-in metric for success. He argues that the new machine age should embrace collaboration between humans and machines. 
+> The new machine age is more about knowledge creation than just physical production. It's mind not matter, brain not brawn, ideas not things.
 
 Kay and Papert share many ideas about using the computer to positively impact cognitive development in children, when the tool is designed correctly. 
 
