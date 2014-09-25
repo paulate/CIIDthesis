@@ -18,24 +18,24 @@ This is a draft!
 
 - [Help children learn and create accurate 3d mental models by allowing them to create complex 3d mechanisms or structures?]({{ site.baseurl}}/images/2409-mentalmodel.jpg)
 
-Tasks
+<!-- Tasks
 
 1. Technology/ physical setup of bringing 3d objects into 2d digital world
 2. Gameplay that is fun for kids
 3. Structure of game that teaches kids to explore/comprehend 3d space
 4. Interface/ interaction on screen
- 
+  -->
 #### Interactive / Visual Research
  
 - [Make science more accessible to young makers by reinventing the research paper as an interactive, visual tool for experimentation?]({{ site.baseurl }}/images/2509-makerresearch.jpg)
 
 
-Tasks
+<!--Tasks
 
 1. Understand how young people experiment and interface with science.
 2. Take existing research papers and make them interactive and visual.
-3. Take maker documentation and make them interactive and visual. 
-4. Create a platform which allows scientists, makers, etc. to publish their work in this way.
+3. Take maker documentation and make them interactive and visual.
+4. Create a platform which allows scientists, makers, etc. to publish their work in this way. -->
 
 ## Hopes and fears
 
