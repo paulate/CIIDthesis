@@ -25,6 +25,7 @@ This is a draft!
 3. Structure of game that teaches kids to explore/comprehend 3d space
 4. Interface/ interaction on screen
   -->
+
 #### Interactive / Visual Research
  
 - [Make science more accessible to young makers by reinventing the research paper as an interactive, visual tool for experimentation?]({{ site.baseurl }}/images/2509-makerresearch.jpg)
