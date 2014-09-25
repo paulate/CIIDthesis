@@ -27,7 +27,7 @@ Tasks
  
 #### Interactive / Visual Research
  
-- [Make science more accessible to young makers by reinventing the research paper as an interactive, visual tool for experimentation?]({{ site.baseurl}}/images/2409-researchexp.jpg)
+- [Make science more accessible to young makers by reinventing the research paper as an interactive, visual tool for experimentation?]({{ site.baseurl }}/images/2509-makerresearch.jpg)
 
 
 Tasks
