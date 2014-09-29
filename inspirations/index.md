@@ -21,7 +21,7 @@ See the [archive]({{ site.baseurl }}/archive) for inspirations of old project id
 *   [Tangle (js tool)](http://worrydream.com/Tangle/) by Bret Victor
 *   [Scientific Communication as Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/) by Bret Victor
     -    Bret reimagines research paper as a series of images, text is secondary.
-
+*   [lolmythesis](http://lolmythesis.com/) Summing up years of work in one sentence.
 #### Learning as exploration
 *   [Fantastic Contraption](http://www.fantasticcontraption.net/)
 *   [The Incredible Machine](https://www.youtube.com/watch?v=0a50Qr4a-uU)
