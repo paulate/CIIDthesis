@@ -37,6 +37,8 @@ This is a draft!
     - How do scientists visualize their work?
     - How do teachers teach science experiments?
 - Find the interaction that's cumbersome in the learning experience. Work on a tool for that interaction. 
+- Experiments
+    - Comic book model?
 
 ### Challenges
 
