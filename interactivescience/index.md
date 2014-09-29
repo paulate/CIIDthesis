@@ -47,4 +47,4 @@ This is a draft!
     
 ### Archive
 
-[Week 1]({{site.baseurl}}{% post_url 2014-09-25-interactive-science-week1 %})
+[Week 1]({{site.baseurl}}{% post_url 2014-09-25-interactive-science %})

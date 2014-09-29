@@ -9,7 +9,7 @@ image:
   feature:
 date: 2014-09-25T18:24:52+02:00
 ---
-These were initial thoughts for the [Interactive Science]({{ site.baseurl }}/interactive-science) direction. Check out the [page]({{ site.baseurl }}/interactive-science) for the latest deets. 
+These were initial thoughts for the [Interactive Science]({{ site.baseurl }}/interactivescience) direction. Check out the [page]({{ site.baseurl }}/interactivescience) for the latest deets. 
 {: .notice}
 
 ### [How might we make science more accessible to young makers by reinventing the research paper as an interactive, visual tool for experimentation?]({{ site.baseurl }}/images/2509-makerresearch.jpg)
