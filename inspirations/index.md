@@ -22,6 +22,7 @@ See the [archive]({{ site.baseurl }}/archive) for inspirations of old project id
 *   [Scientific Communication as Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/) by Bret Victor
     -    Bret reimagines research paper as a series of images, text is secondary.
 *   [lolmythesis](http://lolmythesis.com/) Summing up years of work in one sentence.
+*   [Drawing Dynamic Visualizations](https://vimeo.com/66085662) A tool for data viz.
 
 #### Learning as exploration
 *   [Fantastic Contraption](http://www.fantasticcontraption.net/)
@@ -47,6 +48,8 @@ See the [archive]({{ site.baseurl }}/archive) for inspirations of old project id
 *   [3D Printing Clay](http://oliviervanherpt.com/)
 *   ThinkGeek's April Fools Playdoh 3d Printer
 *   [Engineering Drawing](http://www.me.umn.edu/courses/me2011/handouts/drawing/blanco-tutorial.html)
+
+
 #### CIID
 
 - [Pas A Pas](http://pasapas-project.com/s) by Ishac Bertran
