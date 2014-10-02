@@ -14,7 +14,7 @@ I'm working on my thesis right now. This documentation is currently fancier than
 
   
 -  [About me](http://ciid.dk/education/people/students-2014/paula-te/)
--  [Final project goals, challenges]({% post_url 2014-09-24-final-project-goals %})
+-  [Final project goals, challenges]({{ site.baseurl }}{% post_url 2014-09-24-final-project-goals %})
 -  [Inspirations, related projects]({{ site.baseurl }}/inspirations)
 -  Starting point
     1. [3D Making]({{ site.baseurl }}/3d)
