@@ -20,5 +20,5 @@ date: 2014-09-24T12:31:43+02:00
 6. Use this project as a starting point for discussions, new opportunities, and ideas. 
 7. Week 9 is for packaging and presentation. 
 8. Use final project to gain in-depth knowledge on one of the things you're interested in
-
+9. Refine storytelling skills - practice clear, compelling narrative.
 

@@ -16,9 +16,10 @@ I'm working on my thesis right now. This documentation is currently fancier than
 -  [About me](http://ciid.dk/education/people/students-2014/paula-te/)
 -  [Final project goals, challenges]({{ site.baseurl }}{% post_url 2014-09-24-final-project-goals %})
 -  [Inspirations, related projects]({{ site.baseurl }}/inspirations)
--  Starting point
-    1. [3D Making]({{ site.baseurl }}/3d)
-    2. [Interactive Science]({{ site.baseurl }}/interactivescience)
+-  [Starting point]({{ site.baseurl }}{% post_url 2014-10-08-starting-point %})
+-  [Explorations]({{ site.baseurl}}{% post_url 2014-10-03-explorations %})
+-  Design Challenge: [3D Making ]({{ site.baseurl }}/3d) ([presentation]({{ site.baseurl}}/designchallenge))
+     
 
 <br>
 <br>

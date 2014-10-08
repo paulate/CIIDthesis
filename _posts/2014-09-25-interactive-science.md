@@ -70,5 +70,22 @@ Tasks
 - Standards - understand tensions to adopting, how to smooth the transition 
 - Test ideas quickly
 - Create a standard? Explore the breadth of scientific research publications, then perhaps provide a standard or model for one or two.
-
+- Podio - API interactive sandbox
+- Help design students get academia
+- "When I approach physical computing, I don't know what to get out of it. I assume the code is super difficult."
+- The end product of this result might be concpetual. You may only be able to show what you want. 
+- Make it fun while building physical computing (LEGO-style, e.g. mindstorms)
+- Approach it by making it relatable, a la materials of electronics course. A circuit board is already confusing. 
+- Constraints: how easy can you make something?
+- Inspiration: VVVV
+- Focus on a concept that is hard to understand and teach it: e.g. break points
+- A learning tool that's customizable - like a diary
+- Save information on "BUTTONS" in your own style (e.g. always have to look up the buttons example)
+- Take it to the extreme. Don't want just a nice improvement, want to be able to challenge current norms of documentation and teaching. Want to disrupt education. Step it up. Pick it up.
+- Focus on designers, or non-"CIID" ppl, aimed at design students to show, "Nothing is Impossible"
+- "Don't worry about execution. Just come up with the ideas and the engineers will take care of it." - A design teacher to a design student ca. 10 years ago
+- live video annotation
+- Not easy to skim max msp tutorials, tutorials with help files are kinda hard to switch back and forth between. Want a max patch with chunks of text. 
+- Raspberry pi with documentation on the device.
+- Video and images - presentation tool within the IDE. 
 

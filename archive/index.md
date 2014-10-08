@@ -9,8 +9,11 @@ image:
   creditlink: 
 ---
 
+## Ol' directions
 
-##Projects
+* [Interactive Science]({{ site.baseurl }}/archive/interactivescience)
+
+## Inspirations
 
 #### Sustainability
 *   [Precious Plastic](http://preciousplastic.com) by Dave Hakkens

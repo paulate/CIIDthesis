@@ -12,8 +12,6 @@ image:
 Inspiring projects, people, texts. In progress. Please shoot me an e-mail if you have inspirations to recommend! 
 
   
-See the [archive]({{ site.baseurl }}/archive) for inspirations of old project ideas.
-
 ##Projects
 
 #### Research communications
