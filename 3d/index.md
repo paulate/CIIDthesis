@@ -73,7 +73,11 @@ My own education in engineering was full of challenges and struggles, and I saw 
 
 Thus, my design challenge:
 
-### How might we teach children the basics of 3d modeling in a fun, playful way that gets them excited about engineering and technology? 
+<!-- ### How might we get children engaged in 3d modeling in a fun, playful way that gets them excited about imagining and materializing complex creations? -->
+
+### How might we teach children the basics of 3d modeling in a fun, playful way that gets them engaged in imagining and materialzing complex creations? 
+
+<!-- ### How might we teach children the basics of 3d modeling in a fun, playful way that gets them excited about engineering and technology?  -->
 
 ---
 
@@ -116,7 +120,7 @@ I want to keep my **learning goals** in mind.
 
 I acknowledge that there's a lot of stuff. Here's some feedback I'm looking for...
 
-- How to structure prototypes for learning
+- How to prototype "smart" and move quickly
 - The best way to approach testing with kids
 - Techniques for planning and acquiring user research
 - If there's a particular focus that's more interesting

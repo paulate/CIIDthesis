@@ -1,4 +1,5 @@
 // ROOT =====================================================
+@media print {
 * { 
 background : transparent !important; 
 color : black !important; 
@@ -11,7 +12,14 @@ position: static !important; }
 @page { 
 margin : 0.5cm; }
 
-// TYPOGRAPHY ===============================================
+
+.navigation-wrapper,
+.footer-wrap,
+.article-author-bottom {
+  display:none;
+
+}
+
 h2, h3 { 
 orphans : 3; 
 widows : 3; 
@@ -21,25 +29,25 @@ p {
 orphans : 3; 
 widows : 3; }
 
-pre, blockquote { 
-border : 1px solid #333; 
+/*pre, blockquote {
+border : 1px solid #333;
 page-break-inside : avoid;
 padding: 1em; }
-
-abbr[title]:after { 
+*/
+/*
+abbr[title]:after {
 content: " (" attr(title) ")"; }
 
-a, a:visited { 
+a, a:visited {
 text-decoration : underline; }
 
-a[href]:after { 
+a[href]:after {
 content : " (" attr(href) ")"; }
 
-a[href^="javascript:"]:after, 
-a[href^="#"]:after { 
-content : ""; }
+a[href^="javascript:"]:after,
+a[href^="#"]:after {
+content : ""; }*/
 
-// TEXTURE ===============================================
 img { 
 max-width : 100% !important;
 page-break-inside : avoid; }
@@ -50,7 +58,10 @@ display : table-header-group; }
 tr { 
 page-break-inside : avoid; }
 
+}
 // ELEMENTS ==============================================
+
+
 // LAYOUT ================================================
 // VENDOR-SPECIFIC =======================================
 // MODERNIZR =============================================
