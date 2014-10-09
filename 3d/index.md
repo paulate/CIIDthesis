@@ -118,6 +118,7 @@ I acknowledge that there's a lot of stuff. Here's some feedback I'm looking for.
 
 - How to structure prototypes for learning
 - The best way to approach testing with kids
+- Techniques for planning and acquiring user research
 - If there's a particular focus that's more interesting
 
 ---
