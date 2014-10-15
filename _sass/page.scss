@@ -471,6 +471,12 @@ $button-size: 1.5rem;
 		ul {
 			margin: 1px 0 0;
 		}
+    li {
+      a {
+        padding-left:10%;
+        opacity:.5;
+      }
+    }
 	}
 }
 .image-grid {

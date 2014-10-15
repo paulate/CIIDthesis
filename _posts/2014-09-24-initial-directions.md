@@ -2,7 +2,7 @@
 layout: post
 title: "Initial Directions"
 modified:
-categories: 
+categories: raw
 excerpt: "How might we... decide on a final project direction"
 tags: []
 image:

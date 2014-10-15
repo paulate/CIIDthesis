@@ -2,7 +2,7 @@
 layout: post
 title: "Explorations"
 modified:
-categories: 
+categories: synthesis
 excerpt: "From 'having an idea' to 'knowing what to do'"
 tags: []
 image:

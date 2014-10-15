@@ -2,13 +2,21 @@
 layout: post
 title: "Week-3-learnings"
 modified:
-categories: 
+categories: raw
 excerpt:
 tags: []
 image:
   feature:
 date: 2014-10-09T13:11:05+02:00
 ---
+
+### From Paal
+- Minds on/ hands on
+- Touch while coordinating 
+- Minecraft!
+- Kids before the 30s still made stuff. How did they make toys?
+- 
+
 ### From Convivial Toolbox
 - Analyze feedback ASAP
 

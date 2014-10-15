@@ -2,7 +2,7 @@
 layout: post
 title: "Week 1: Readings"
 modified:
-categories: 
+categories: raw
 excerpt: Kay, Papert, Brynjolfsson, KSC
 tags: []
 image:

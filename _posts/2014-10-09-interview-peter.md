@@ -2,7 +2,7 @@
 layout: post
 title: "Interview: Peter"
 modified:
-categories: 
+categories: synthesis
 excerpt:
 tags: []
 image:

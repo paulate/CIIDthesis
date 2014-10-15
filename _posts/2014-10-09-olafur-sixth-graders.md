@@ -2,7 +2,7 @@
 layout: post
 title: "Olafur Eliasson vs. 6th Graders"
 modified:
-categories: 
+categories: synthesis
 excerpt: Works in progress for both.
 tags: []
 image:

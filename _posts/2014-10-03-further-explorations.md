@@ -2,7 +2,7 @@
 layout: post
 title: "Further Explorations"
 modified:
-categories: 
+categories: synthesis
 excerpt: "By October 17th"
 tags: []
 image:

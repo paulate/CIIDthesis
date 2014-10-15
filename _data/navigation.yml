@@ -1,16 +1,13 @@
 # Site navigation links
 
-- title: About
+- title: The Project
   url: /
 
-- title: Project Updates
+- title: The Synthesis
   url: /posts/
 
-- title: 3-D Making
-  url: /3d/ 
+- title: The Raw Thoughts
+  url: /raw/
   
-- title: Inspirations
-  url: /inspirations/
-  
-- title: Archive
+- title: The Archive
   url: /archive/

@@ -2,7 +2,7 @@
 layout: post
 title: "Week 2: Learnings"
 modified:
-categories: 
+categories: raw
 excerpt:
 tags: []
 image:

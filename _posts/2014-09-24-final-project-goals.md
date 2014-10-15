@@ -2,7 +2,7 @@
 layout: post
 title: "Final Project Goals"
 modified:
-categories: 
+categories: synthesis
 excerpt: "What do I want this project to be?"
 tags: []
 image:

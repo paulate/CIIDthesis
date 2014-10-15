@@ -2,7 +2,7 @@
 layout: post
 title: "Starting Point"
 modified:
-categories: 
+categories: synthesis
 excerpt: 
 tags: []
 image:

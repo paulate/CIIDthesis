@@ -2,7 +2,7 @@
 layout: post
 title: "Schedule - Interactive Science"
 modified:
-categories: 
+categories: raw
 excerpt:
 tags: []
 image:

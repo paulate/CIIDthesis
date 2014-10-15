@@ -11,7 +11,15 @@ image:
 
 Inspiring projects, people, texts. In progress. Please shoot me an e-mail if you have inspirations to recommend! 
 
-  
+## Inspiration board
+
+![image]({{site.baseurl}}/images/inspirations/pasapas.jpg)
+![image]({{site.baseurl}}/images/inspirations/minecraft.jpg)
+![image]({{site.baseurl}}/images/inspirations/tinkercad.jpg)
+![image]({{site.baseurl}}/images/inspirations/goldieblox.jpg)
+![image]({{site.baseurl}}/images/inspirations/riftsketch.png)
+![image]({{site.baseurl}}/images/inspirations/lego.png)
+
 ##Projects
 
 #### Research communications

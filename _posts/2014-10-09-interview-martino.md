@@ -2,7 +2,7 @@
 layout: post
 title: "Interview: Martino"
 modified:
-categories: 
+categories: synthesis
 excerpt:
 tags: []
 image:

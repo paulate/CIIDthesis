@@ -2,7 +2,7 @@
 layout: post
 title: "Interactive Science"
 modified:
-categories: 
+categories: raw
 excerpt: "Initial thoughts for Interactive Science direction."
 tags: []
 image:

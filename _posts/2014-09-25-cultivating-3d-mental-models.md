@@ -2,7 +2,7 @@
 layout: post
 title: "Cultivating 3D Mental Models"
 modified:
-categories: 
+categories: raw
 excerpt: "Initial thoughts for 3D Making direction."
 tags: []
 image:

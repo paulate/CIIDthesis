@@ -14,12 +14,20 @@ I'm working on my thesis right now. This documentation is currently fancier than
 
   
 -  [About me](http://ciid.dk/education/people/students-2014/paula-te/)
--  [Final project goals, challenges]({{ site.baseurl }}{% post_url 2014-09-24-final-project-goals %})
--  [Inspirations, related projects]({{ site.baseurl }}/inspirations)
--  [Starting point]({{ site.baseurl }}{% post_url 2014-10-08-starting-point %})
--  [Explorations]({{ site.baseurl}}{% post_url 2014-10-03-explorations %})
--  Design Challenge: [3D Making ]({{ site.baseurl }}/3d) ([presentation]({{ site.baseurl}}/designchallenge))
-     
+-  Meta project:
+    -  [Final project goals, challenges]({{ site.baseurl }}{% post_url 2014-09-24-final-project-goals %})
+    -  [Starting point]({{ site.baseurl }}{% post_url 2014-10-08-starting-point %})
+-  Design Challenge: 
+    -  [3D Making ]({{ site.baseurl }}/3d) ([presentation]({{ site.baseurl}}/designchallenge))
+    -  Research: 
+        -  [Inspirations, related projects]({{ site.baseurl }}/inspirations)
+        -  Interviews
+            - [Mette]({{ site.baseurl}}{% post_url 2014-10-09-interview-mette %})
+            - [Adam]({{ site.baseurl}}{% post_url 2014-10-09-interview-adam %})
+            - [Peter]({{ site.baseurl}}{% post_url 2014-10-09-interview-peter %})
+            - [Martino]({{ site.baseurl}}{% post_url 2014-10-09-interview-martino %})
+    -  [Explorations]({{ site.baseurl}}{% post_url 2014-10-03-explorations %})
+        - [Bodystorming]({{ site.baseurl}}{% post_url 2014-10-09-bodystorming %})
 
 <br>
 <br>

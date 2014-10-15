@@ -2,7 +2,7 @@
 layout: post
 title: "Week 1: What I Learned"
 modified:
-categories: 
+categories: raw 
 excerpt:
 tags: []
 image:
