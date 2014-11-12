@@ -28,7 +28,7 @@ I'm working on my thesis right now. This documentation is currently fancier than
             - [Martino]({{ site.baseurl}}{% post_url 2014-10-09-interview-martino %})
     -  [Explorations]({{ site.baseurl}}{% post_url 2014-10-03-explorations %})
         - [Bodystorming]({{ site.baseurl}}{% post_url 2014-10-09-bodystorming %})
-        - [TEST](http://google.com)
+        - [Brainstorming]({{ site.baseurl}}{% post_url 2014-10-09-bodystorming %})
 - Concept refinements:
     -  [Week 4: Insights]({{ site.baseurl}}{% post_url 2014-10-15-week-4-insights %})
     -  [Week 5: Insights]({{ site.baseurl}}{% post_url 2014-11-11-week-5-insights %})
