@@ -10,7 +10,7 @@ image:
 date: 2014-11-12T00:52:16+01:00
 ---
 
-![]({{site.baseurl}}/images/brainstorming/people.JPG)
+![image]({{site.baseurl}}/images/brainstorming/people.JPG)
 
 | Who | When | Where | 
 |:-----|:------|:-------|
