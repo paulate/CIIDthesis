@@ -7,3 +7,47 @@ Gemfile.lock
 codekit-config.json
 node_modules
 _asset_bundler_cache
+
+
+unityproject/QCAR/
+unityproject/Assets/Parabox Primitives/
+unityproject/Assets/STL/
+unityproject/Assets/LeapMotion/
+unityproject/Assets/Plugins/
+unityproject/Assets/Qualcomm Augmented Reality/
+unityproject/Assets/Editor/
+unityproject/Assets/readme_SDK.txt
+unityproject/Assets/license_3rdpartynotice.txt
+unityproject/Assets/StreamingAssets
+
+# =============== #
+# Unity generated #
+# =============== #
+unityproject/Temp/
+unityproject/Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+unityproject/ExportedObj/
+unityproject/obj/
+unityproject/*.svd
+unityproject/*.userprefs
+unityproject/*.csproj
+unityproject/*.pidb
+unityproject/*.suo
+unityproject/*.sln
+unityproject/*.user
+unityproject/*.unityproj
+unityproject/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
