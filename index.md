@@ -32,9 +32,11 @@ I'm working on my thesis right now. This documentation is currently fancier than
 - Concept refinements:
     -  [Week 4: Insights]({{ site.baseurl}}{% post_url 2014-10-15-week-4-insights %})
     -  [Week 5: Insights]({{ site.baseurl}}{% post_url 2014-11-11-week-5-insights %})
-    -  [Week 6]({{ site.baseurl}}{% post_url 2014-11-11-week-6-insights %})(in progress)
+    -  [Week 6]({{ site.baseurl}}{% post_url 2014-11-11-week-6-insights %}) (in progress) 
 -  Experiments:
     -  [Vuforia]
-    -  [Unity]
+    -  [Unity]({{ site.baseurl}}{% post_url 2014-11-12-unity %}) (in progress) 
+-  Prototype review:
+	- TADCAD! (working title) ([presentation]({{ site.baseurl}}/prototype))
 <br>
 <br>
