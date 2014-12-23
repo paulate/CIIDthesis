@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            CIID Final Project
+title:            TADCAD
 locale:           en_US
 url:              //paulate.github.io/tadcad
 baseurl:          /tadcad
