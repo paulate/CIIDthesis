@@ -45,6 +45,7 @@ date: 2014-11-22T16:00:46+01:00
 - Tool is still challenging because of its glitches. 
 - It's "cool" because of the technology.  
 - Continue to develop "plane" of building
+
 #### Building insights
 - Building challenges were not effective. Kids did not build; they only tried out demo and then stopped when they reached the demo's limit, rather than experimenting more. (The adults experimented much more.)
 - "I would like to build from scratch, because then you don't get told what to build."
