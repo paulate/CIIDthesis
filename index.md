@@ -36,7 +36,7 @@ I presented TADCAD as my final project at CIID on Dec 10, 2014. Presentation tra
 
 TADCAD was at the CIID Final Exhibition, Dec 12 &amp; 13, 2014. Did you make something at the CIID Exhibition? 
 
-[View your TADCAD creations here](https://github.com/paulate/CIIDthesis/tree/gh-pages/exhibition-creations).
+[View your TADCAD creations here](https://github.com/paulate/tadcad/tree/gh-pages/exhibition).
 
 ## Links
 
