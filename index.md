@@ -26,6 +26,17 @@ The final project timeframe was a great starting point in continuing to develop 
 
 Find out more about [my process]({{ site.baseurl}}/process) through the top navigation links. 
 
+## Prototype
+
+<iframe src="//player.vimeo.com/video/117528371?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+In the working demo / prototype, I create a creature using scaling and extruding gestures.  These screen captures unfortunately do not show the gestures used to transform the shapes; I am gesturing over a Leap Motion (gesture sensor). 
+
+<iframe src="//player.vimeo.com/video/117530068?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+I make a tree in this preliminary prototype.
+
 ## Presentation
 
 I presented TADCAD as my final project at CIID on Dec 10, 2014. Presentation transcript / notes probably coming soon.
